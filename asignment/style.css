@@ -1,0 +1,93 @@
+.buy-now-btn{
+    background-color: rgb(240, 12, 145);
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.container{
+    margin-bottom: 80px;
+}
+.background{
+    background-image: url(img/bg-1.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.background img{
+    width: 200px;
+}
+.size{
+    padding-left: 90px;
+}
+.slider{
+    margin-bottom: 250px;
+}
+.bg-size{
+    height: 0px;
+}
+.bg-size img{
+    width: 140px;
+}
+ 
+.carousel-indicators [data-bs-target]{
+    background-color: orange;
+}
+.by-btn{
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 8px;
+}
+.btn{
+    background-color: white;
+    border: none;
+}
+.card-body{
+    text-align: center;
+}
+.slider-hg{
+    height: 350px;
+    margin-bottom: 350px;
+}
+.title{
+    margin-bottom: 13px;
+}
+.title h4{
+    color: orange;
+    font-size: 20px;
+}
+.title h3{
+    color: gray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(235, 235, 235);
+    border-radius: 10px;
+}
+.last-section img{
+    width: 100%;
+}
+.box{
+    box-shadow: 5px 5px 10px rgb(219, 218, 218);
+    border-radius: 10px;
+}
+.bag-style{
+    width: 200px;
+    height: 200px;
+    padding: 35px;
+    margin-bottom: 10px;
+}
+
+.box-style{
+
+    width: 200px;
+    height: 200px;
+    margin-bottom: 36px;
+    padding: 35px;
+}
+.last-title h2{
+    border-bottom: 5px solid orange;
+    display: inline;
+    padding-bottom: 10px;
+}
